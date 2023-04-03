@@ -16,3 +16,22 @@
 -error handling
 -HTTPS
 -Tree shaking - (remove used code)
+
+food ordering app
+/\*
+header
+-logo
+-Nav Items
+body
+-search
+-ReataurantContainer
+-RestaurantCard
+-img
+-name of res,star rating,cuisine,delivery date
+footer
+-copyRight
+-Links
+-Address
+-Contact
+
+\*/
